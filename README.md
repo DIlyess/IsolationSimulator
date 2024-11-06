@@ -18,8 +18,11 @@ Voici ce que le produit final pourra faire dans l'idéal:
 - Proposer le choix de placer, ou non, un chauffage dans une pièce (on pourra peut-être regler la température de ces chauffages)
 
 
-<img src="organisation_projet/Schema%20projet%20thermodynamiCS.png" alt="drawing" width="600"/>
+![image](https://github.com/user-attachments/assets/9eab4d42-8e73-43ec-b696-1d0b08682097)
 
+![image](https://github.com/user-attachments/assets/af973aec-fb67-48f1-93e5-b4e0e04be3a9)
+
+![image](https://github.com/user-attachments/assets/ad4e9bd1-6a25-4e0a-8862-35d94750b225)
 
 
 Tout ce qui précède constitue le Jalon 2 : phase d'analyse et de besoins.
